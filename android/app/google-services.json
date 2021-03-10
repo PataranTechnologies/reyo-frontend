@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437000312243",
+    "firebase_url": "https://reyo-c44a7.firebaseio.com",
+    "project_id": "reyo-c44a7",
+    "storage_bucket": "reyo-c44a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437000312243:android:cf195f2f32095d6453e7c6",
+        "android_client_info": {
+          "package_name": "com.reyoclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437000312243-su29k0rlfg768eai4coi5tajcmen02d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1rIxNXh3XfNs5MhSoy0CWDBgLmSKYyhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437000312243-su29k0rlfg768eai4coi5tajcmen02d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
